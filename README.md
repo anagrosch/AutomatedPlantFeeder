@@ -1,7 +1,7 @@
 # AutomatedPlantFeeder
 Custom PCB design to automatically water a house plant.
 
-##Features
+### Features
 Monitors the water level of the water basin providing water to be used for the plant.
 
 Monitors the moisture level in the soil so that the plant will be watered if the soil becomes too dry.
